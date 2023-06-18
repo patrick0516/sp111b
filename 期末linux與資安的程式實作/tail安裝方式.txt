@@ -1,0 +1,5 @@
+準備一個usb
+下載https://etcher.balena.io
+下載https://tails.boum.org/install/download/index.en.html
+將tail燒錄近usb，最後plug usb後進入bios將usb開機順序設為第一個
+備注：tail是for tor的linux版本，所以比較有隱匿性
