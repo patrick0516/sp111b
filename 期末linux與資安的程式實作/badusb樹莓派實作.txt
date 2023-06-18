@@ -1,0 +1,2 @@
+參考https://github.com/dbisu/pico-ducky就可實作出來，我自己以實作成功pico w 與pico都有做過
+另一個pi zero則是參考https://github.com/RoganDawes/P4wnP1_aloa，這個我還沒有做出來
